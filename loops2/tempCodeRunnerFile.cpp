@@ -1,0 +1,1 @@
+cout<<a<<" raised to the powwer "<<b<<" is "<<power;
